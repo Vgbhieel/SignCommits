@@ -1,2 +1,3 @@
 # SignCommits
 foo
+bar
