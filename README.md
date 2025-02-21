@@ -4,4 +4,3 @@
 
 # Editing in Windows with Android Studio commit
 # Test in Windows with git bash commit
-# Now testing with Windows cmd
