@@ -1,3 +1,0 @@
-# SignCommits
-foo
-bar
